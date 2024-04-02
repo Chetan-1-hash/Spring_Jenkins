@@ -16,6 +16,7 @@ public class SpringJenkinsApplication {
 	public void display() {
 		logger.info("Application Started ....");
 		logger.info("Application Started for second time....");
+		logger.info("Application Started to check how pipeline works");
 	}
 
 	public static void main(String[] args) {
